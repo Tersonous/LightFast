@@ -1,2 +1,2 @@
 # LightFast
-Real time translation of armv8 to amd64.
+Real time translation of arm64 to x86-64.
