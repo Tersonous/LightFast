@@ -8,7 +8,6 @@ enum amd64 {
  c4 = "sub"
  c5 = "mul"
  c6 = "jmp"
- c7 = "jeq"};
-
-
-
+ c7 = "jeq"
+ c8 = "mov"
+ c9 = "ret" };
